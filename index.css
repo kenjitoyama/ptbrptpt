@@ -1,0 +1,11 @@
+#lookup {
+  display: flex;
+}
+
+#lookup-br, #lookup-pt {
+  width: 300px;
+}
+
+label, input {
+  display: block;
+}
